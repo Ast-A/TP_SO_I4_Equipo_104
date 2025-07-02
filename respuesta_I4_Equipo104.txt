@@ -10,3 +10,17 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 En el main quedó amarillo
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 En esto nos equivocamos y no reemplazamos el favicon, sino que lo agregamos
+
+Pregunta:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+GAMMA no pudo hacer el ultimo push
+F- ¿Qué problemas surgieron?
+De igual manera el ultimo push de Gamma habría reemplazado los dos de Alfa y Beta y solo quedaria el <p> de Gamma
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+El push -f es para forzar aunque see sobrescriban los cambios de otros, se pueden dañar archivos o commits de otros colaboradores en el proceso
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Tendría que hacerse por partes, primero Alfa descargando desde Testing y subiendo su parte, una vez hecho, lo sigue Beta, descargando de forma local lo que Alfa ya hizo y agregando su parte, Gamma haría lo mismo
