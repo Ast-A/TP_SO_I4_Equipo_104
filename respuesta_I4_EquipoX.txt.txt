@@ -1,0 +1,12 @@
+ALFA - Santiago Aguilar
+BETA - Mauro Gomez
+GAMMA - Evelyn Allende
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+En testing quedó el color azul (blue)
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+En desarrollo quedó amarillo(yellow)
+C- ¿Qué color de fondo tiene su página en el MASTER?
+En el main quedó amarillo
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+En esto nos equivocamos y no reemplazamos el favicon, sino que lo agregamos
